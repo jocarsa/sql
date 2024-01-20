@@ -1,1 +1,4 @@
-RENAME TABLE `empresa`.`usuarios` TO `empresa`.`misusuarios`;
+RENAME TABLE 
+`empresa`.`usuarios` 
+TO 
+`empresa`.`misusuarios`;

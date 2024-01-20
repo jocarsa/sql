@@ -1,1 +1,5 @@
-ALTER TABLE `usuarios` ADD `fotografia` VARCHAR(100) NOT NULL AFTER `telefono`;
+ALTER TABLE 
+`usuarios` 
+ADD 
+`fotografia` VARCHAR(100) NOT NULL 
+AFTER `telefono`;

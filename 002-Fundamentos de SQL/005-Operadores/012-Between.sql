@@ -1,0 +1,4 @@
+SELECT *
+FROM productos
+WHERE 
+precio BETWEEN 10 AND 100;
