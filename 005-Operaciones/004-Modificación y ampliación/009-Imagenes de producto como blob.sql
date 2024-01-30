@@ -1,0 +1,1 @@
+ALTER TABLE `productos` CHANGE `imagen` `imagen` MEDIUMBLOB NOT NULL;

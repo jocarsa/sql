@@ -1,0 +1,11 @@
+DELIMITER //
+
+CREATE TRIGGER insertar_pedido
+AFTER INSERT ON pedidos
+FOR EACH ROW
+BEGIN
+	INSERT INTO registros VALUES(NULL,'INSERT',NOW(),'pedidos',NEW.Identificador);
+END;
+
+// 
+DELIMITER ;

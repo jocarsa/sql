@@ -1,0 +1,2 @@
+1 bit por defecto
+permite máximo de 64 bits

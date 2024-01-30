@@ -1,0 +1,1 @@
+ALTER TABLE `pedidos` ADD `pagado` INT(10) NOT NULL AFTER `impuestos_nombre`;

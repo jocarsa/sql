@@ -1,0 +1,1 @@
+Similar a char pero con cadenas binarias

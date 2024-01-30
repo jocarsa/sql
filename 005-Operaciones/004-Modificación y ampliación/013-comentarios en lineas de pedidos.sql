@@ -1,0 +1,1 @@
+ALTER TABLE `lineaspedido` ADD `comentarios` TEXT NOT NULL AFTER `cantidad`;

@@ -1,0 +1,3 @@
+guarda la información en la memoria RAM
+Mas velocidad
+Mas volatilidad

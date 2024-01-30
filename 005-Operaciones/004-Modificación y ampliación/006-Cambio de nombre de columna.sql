@@ -1,0 +1,1 @@
+ALTER TABLE `productos` CHANGE `categoria` `categorias_nombre` INT(255) NOT NULL;

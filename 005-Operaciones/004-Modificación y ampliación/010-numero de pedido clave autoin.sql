@@ -1,0 +1,1 @@
+ALTER TABLE `empresa`.`pedidos` DROP INDEX , ADD UNIQUE `numeropedido` (`0`);

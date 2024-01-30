@@ -1,0 +1,1 @@
+ALTER TABLE `registros` ADD `usuario` VARCHAR(100) NOT NULL AFTER `id`;

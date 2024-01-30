@@ -1,0 +1,3 @@
+2 bytes
+65536 valores sin signo
+32768 con signo

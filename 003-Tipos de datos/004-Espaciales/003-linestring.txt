@@ -1,0 +1,1 @@
+curva con interpolacion entre puntos
